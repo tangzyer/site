@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhiyuan ([pronounciation](https://namedrop.io/zhiyuantang)), a second-year PhD student in Operations Management at Naveen Jindal School of Management, the University of Texas at Dallas. I am broadly interested in topics related to stochastic systems, sequential decision-making and statistical learning.   
+I am Zhiyuan Tang ([pronounciation](https://namedrop.io/zhiyuantang)), a second-year PhD student in Operations Management at Naveen Jindal School of Management, the University of Texas at Dallas, advised by [Prof. Yining Wang](https://yining-wang.com/). I am broadly interested in topics related to stochastic systems, sequential decision-making and statistical learning.   
 
 
 
