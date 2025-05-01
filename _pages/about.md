@@ -15,8 +15,11 @@ I am Zhiyuan Tang ([pronounciation](https://namedrop.io/zhiyuantang)), a second-
 Working Paper
 ======
 [**Match Made with Matrix Completion: Efficient Offline and Online Learning in Matching Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903)  
-Zhiyuan Tang, Wanning Chen\*, Kan Xu\*  (*Equal Contribution)  
+Zhiyuan Tang, Wanning Chen\*, Kan Xu\*  (*Alphabetical order)  
 POMS-HK International Conference Best Student Paper Competition, First Place, 2025
+
+[**On the Optimal Regret of Linear Contextual Bandit under Generalized Margin Condition**](/files/ssrn_v0.pdf)  
+Xiaojie Mao\*, Zhiyuan Tang\*, Yining Wang\*  (*Alphabetical order)  
 
 
 
