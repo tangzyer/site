@@ -19,7 +19,7 @@ Zhiyuan Tang, Wanning Chen\*, Kan Xu\*  (*Alphabetical order)
 POMS-HK International Conference Best Student Paper Competition, First Place, 2025
 
 [**On the Optimal Regret of Linear Contextual Bandit under Generalized Margin Condition**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237709)  
-Xiaojie Mao\*, Zhiyuan Tang\*, Yining Wang\*  (*Alphabetical order*)
+Xiaojie Mao\*, Zhiyuan Tang\*, Yining Wang\*  (*Alphabetical order)
 
 
 
