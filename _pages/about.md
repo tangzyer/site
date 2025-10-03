@@ -14,7 +14,7 @@ I am Zhiyuan Tang ([pronounciation](https://namedrop.io/zhiyuantang)), a third-y
 
 Working Paper
 ======
-[**Match Made with Matrix Completion: Efficient Offline and Online Learning in Matching Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903)  
+[**Match Made with Matrix Completion: Efficient Learning under Matching Interference**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903)  
 Zhiyuan Tang, Wanning Chen\*, Kan Xu\*  (*Alphabetical order)  
 POMS-HK International Conference Best Student Paper Competition, First Place, 2025
 
