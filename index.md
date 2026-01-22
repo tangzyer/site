@@ -23,3 +23,8 @@ I am Zhiyuan Tang ([pronunciation](https://namedrop.io/zhiyuantang)), a third-ye
 - **Ph.D. in Operations Management** (In Progress)
   <br>
   Naveen Jindal School of Management, University of Texas at Dallas
+
+- **B.Eng in Automation**, 2023
+  <br>
+  Tsinghua University
+  
