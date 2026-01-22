@@ -1,0 +1,45 @@
+# Basic Information
+title: Zhiyuan Tang
+position: Ph.D. Student in Operations Management
+affiliation: Naveen Jindal School of Management, UT Dallas
+email: zhiyuan.tang (at) utdallas.edu
+
+# Search Engine Optimization (SEO)
+keywords: Zhiyuan Tang, PhD student, UT Dallas, Operations Management, stochastic systems, sequential decision-making
+description: Zhiyuan Tang is a PhD student in Operations Management at UT Dallas, working on stochastic systems, sequential decision-making and statistical learning.
+canonical: https://tangzyer.github.io/site
+
+# Links
+# If you don't need one of them, you may delete the corresponding line.
+# google_scholar: https://scholar.google.com/
+# cv_link: assets/files/cv.pdf
+# github_link: https://github.com/
+linkedin: https://www.linkedin.com/in/zhiyuan-tang-b485001a4
+twitter: https://twitter.com/Zhiyuan_Tang18
+
+# Images
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+enable_footnote: false
+
+# Auto Dark Mode
+auto_dark_mode: true
+
+# Font
+font: "Serif" # or "Sans Serif"
+
+# Use this project as a remote theme for GitHub Pages
+remote_theme: yaoyao-liu/minimal-light
+
+plugins:
+  - jekyll-remote-theme
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
