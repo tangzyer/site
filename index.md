@@ -18,6 +18,10 @@ I am Zhiyuan Tang ([pronunciation](https://namedrop.io/zhiyuantang)), a third-ye
   <br>
   Xiaojie Mao\*, Zhiyuan Tang\*, Yining Wang\* (\*Alphabetical order)
 
+- **[Debiased Difference-in-Differences Estimation and Inference of Causal Effects Under Adaptive Controls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6161168)**
+  <br>
+  Zhiyuan Tang, Yining Wang, Sentao Miao
+
 ## Education
 
 - **Ph.D. in Operations Management** (In Progress)
